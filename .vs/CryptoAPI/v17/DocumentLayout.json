@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PeanutTest\\CryptoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|e:\\peanuttest\\cryptoapi\\cryptoapi\\endpoints\\getratesendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|solutionrelative:cryptoapi\\endpoints\\getratesendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|e:\\peanuttest\\cryptoapi\\cryptoapi\\endpoints\\estimateendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|solutionrelative:cryptoapi\\endpoints\\estimateendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|e:\\peanuttest\\cryptoapi\\cryptoapi\\services\\binanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|solutionrelative:cryptoapi\\services\\binanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|e:\\peanuttest\\cryptoapi\\cryptoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|solutionrelative:cryptoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|e:\\peanuttest\\cryptoapi\\cryptoapi\\services\\kucoinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|solutionrelative:cryptoapi\\services\\kucoinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|e:\\peanuttest\\cryptoapi\\cryptoapi\\services\\interfaces\\exchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CFFE43-B6B7-4CA4-A379-B9137228C2AC}|CryptoAPI\\CryptoAPI.csproj|solutionrelative:cryptoapi\\services\\interfaces\\exchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExchangeService.cs",
+              "DocumentMoniker": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Services\\Interfaces\\ExchangeService.cs",
+              "RelativeDocumentMoniker": "CryptoAPI\\Services\\Interfaces\\ExchangeService.cs",
+              "ToolTip": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Services\\Interfaces\\ExchangeService.cs",
+              "RelativeToolTip": "CryptoAPI\\Services\\Interfaces\\ExchangeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:06:28.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstimateEndpoint.cs",
+              "DocumentMoniker": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Endpoints\\EstimateEndpoint.cs",
+              "RelativeDocumentMoniker": "CryptoAPI\\Endpoints\\EstimateEndpoint.cs",
+              "ToolTip": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Endpoints\\EstimateEndpoint.cs",
+              "RelativeToolTip": "CryptoAPI\\Endpoints\\EstimateEndpoint.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:04:24.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KuCoinService.cs",
+              "DocumentMoniker": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Services\\KuCoinService.cs",
+              "RelativeDocumentMoniker": "CryptoAPI\\Services\\KuCoinService.cs",
+              "ToolTip": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Services\\KuCoinService.cs",
+              "RelativeToolTip": "CryptoAPI\\Services\\KuCoinService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:01:17.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinanceService.cs",
+              "DocumentMoniker": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Services\\BinanceService.cs",
+              "RelativeDocumentMoniker": "CryptoAPI\\Services\\BinanceService.cs",
+              "ToolTip": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Services\\BinanceService.cs",
+              "RelativeToolTip": "CryptoAPI\\Services\\BinanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:00:57.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetRatesEndpoint.cs",
+              "DocumentMoniker": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Endpoints\\GetRatesEndpoint.cs",
+              "RelativeDocumentMoniker": "CryptoAPI\\Endpoints\\GetRatesEndpoint.cs",
+              "ToolTip": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Endpoints\\GetRatesEndpoint.cs",
+              "RelativeToolTip": "CryptoAPI\\Endpoints\\GetRatesEndpoint.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:59:40.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoAPI\\Program.cs",
+              "ToolTip": "E:\\PeanutTest\\CryptoAPI\\CryptoAPI\\Program.cs",
+              "RelativeToolTip": "CryptoAPI\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAnwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:59:02.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

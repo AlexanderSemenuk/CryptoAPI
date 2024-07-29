@@ -13,10 +13,10 @@ public class BinanceService : IExchangeService
         _httpClient = httpClient;
     }
 
-    public async Task<decimal> GetPrice(GetRatesRequest request)
+    public async Task<decimal> GetPrice(string baseCurrency, string quoteCurrency)
     {
         var response =
-            await _httpClient.GetAsync($"api/v3/ticker/price?symbol={request.BaseCurrency}{request.QuoteCurrency}");
+            await _httpClient.GetAsync($"api/v3/ticker/price?symbol={baseCurrency}{quoteCurrency}");
 
         response.EnsureSuccessStatusCode();
 

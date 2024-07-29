@@ -1,9 +1,10 @@
 ﻿using CryptoAPI.Models.RequestModels;
+using CryptoAPI.Services.Interfaces;
 using Newtonsoft.Json.Linq;
 
 namespace CryptoAPI.Services;
 
-public class KuCoinService
+public class KuCoinService : IExchangeService
 {
     private readonly HttpClient _httpClient;
 
@@ -12,9 +13,9 @@ public class KuCoinService
         _httpClient = httpClient;
     }
 
-    public async Task<decimal> GetPrice(GetRatesRequest request)
+    public async Task<decimal> GetPrice(string baseCurrency, string quoteCurrency)
     {
-        var response = await _httpClient.GetAsync($"api/v1/market/orderbook/level1?symbol={request.BaseCurrency}-{request.QuoteCurrency}");
+        var response = await _httpClient.GetAsync($"api/v1/market/orderbook/level1?symbol={baseCurrency}-{quoteCurrency}");
 
         response.EnsureSuccessStatusCode();
 
