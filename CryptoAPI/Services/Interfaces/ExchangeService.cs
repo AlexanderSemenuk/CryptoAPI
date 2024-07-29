@@ -1,6 +1,8 @@
-﻿namespace CryptoAPI.Services.Interfaces;
+﻿using CryptoAPI.Models.RequestModels;
 
-public interface ExchangeService
+namespace CryptoAPI.Services.Interfaces;
+
+public interface IExchangeService
 {
-    
+    Task<decimal> GetPrice(GetRatesRequest request);
 }
